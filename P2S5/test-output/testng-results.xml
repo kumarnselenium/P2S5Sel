@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11880" started-at="2018-01-18T02:41:37Z" finished-at="2018-01-18T02:41:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11880" started-at="2018-01-18T02:41:37Z" finished-at="2018-01-18T02:41:49Z">
+      <class name="automationConcepts.VerificationsUsingJUnit">
+        <test-method status="PASS" signature="eMICalculator()[pri:0, instance:automationConcepts.VerificationsUsingJUnit@29774679]" name="eMICalculator" duration-ms="11843" started-at="2018-01-17T21:41:37Z" finished-at="2018-01-17T21:41:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- eMICalculator -->
+      </class> <!-- automationConcepts.VerificationsUsingJUnit -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
